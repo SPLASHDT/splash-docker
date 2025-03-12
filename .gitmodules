@@ -1,0 +1,8 @@
+[submodule "splash-dashboard"]
+	path = splash-dashboard
+	url = git@github.com:SPLASHDT/splash-dashboard.git
+	branch = docker
+[submodule "splash-dashboard-backend"]
+	path = splash-dashboard-backend
+	url = git@github.com:SPLASHDT/splash-dashboard-backend.git
+	branch = docker
