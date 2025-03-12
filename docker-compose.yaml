@@ -1,0 +1,12 @@
+version: "3"
+
+services:
+  frontend:
+    build: ./splash-dashboard
+    ports:
+      - "8050:8050"
+
+  backend:
+    build: ./splash-dashboard-backend
+    ports:
+      - "8080:8080"
