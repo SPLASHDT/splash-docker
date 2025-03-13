@@ -19,6 +19,11 @@ docker-compose up
 or in the background:
 
 ~~~
-docker-compose start
+docker-compose up -d
 ~~~
 
+and to stop them:
+
+~~~
+docker-compose stop
+~~~
