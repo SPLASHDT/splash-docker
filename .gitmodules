@@ -6,3 +6,6 @@
 	path = splash-dashboard-backend
 	url = git@github.com:SPLASHDT/splash-dashboard-backend.git
 	branch = docker
+[submodule "downloader"]
+	path = downloader
+	url = git@github.com:SPLASHDT/downloader.git

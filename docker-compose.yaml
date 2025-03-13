@@ -15,3 +15,9 @@ services:
         source: /data
         target: /data
 
+  downloader:
+    build: ./downloader
+    volumes:
+      - type: bind
+        source: /data/data_inputs
+        target: /data/data_inputs
