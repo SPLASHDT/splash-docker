@@ -15,7 +15,9 @@ Create this directory by running:
 mkdir /data
 ~~~
 
-edit docker-compose.yaml and change "source: /data" to the location of the data directory.
+edit docker-compose.yaml and change "source: /data" to the location of the data directory. 
+
+** Note that there are TWO occurences of this, one for the backend container and one for the downloader. Make sure you change both of them. **
 
 # 3. Downloading the static data
 
