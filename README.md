@@ -97,3 +97,7 @@ In the splash-docker directory run:
 ~~~
 docker-compose stop
 ~~~
+
+# Digital Object Identifier
+
+[![DOI](https://zenodo.org/badge/947406448.svg)](https://doi.org/10.5281/zenodo.15282580)
